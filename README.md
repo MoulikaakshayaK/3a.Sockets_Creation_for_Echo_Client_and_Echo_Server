@@ -9,7 +9,11 @@ Sockets Links.
  server .
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
+![Screenshot 2025-05-14 211841](https://github.com/user-attachments/assets/39e33ae2-b72a-4a33-ac53-f129c2c5a3fd)
+
 ## OUPUT
+![Screenshot 2025-05-14 211900](https://github.com/user-attachments/assets/252a2f49-737f-4fe5-a6e2-8b267bd044d3)
+
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
 was successfully created and executed.
